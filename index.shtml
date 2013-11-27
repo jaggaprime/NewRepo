@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html>
+
+
+<head>
+<title>This is my first Git Page</title>
 <style>
 </style>
+</head>
+
+<h1>This is awesome</h1>
+{block:Posts}
+{/block:Posts}
+
 <body>
 </body>
 
